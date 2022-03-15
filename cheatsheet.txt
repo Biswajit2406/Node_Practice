@@ -2,4 +2,4 @@
     const abc=require("__pathname")
 
 => Modules
-=> Common JS and ES6 Modules
+=> Common JS and ES6 Modules...
